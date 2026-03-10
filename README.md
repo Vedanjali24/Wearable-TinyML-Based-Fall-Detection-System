@@ -8,3 +8,6 @@ To enable reliable data storage and post-analysis, the system includes SD card l
 A key objective of the system is privacy-preserving edge intelligence. All inference and decision-making are performed directly on the embedded device, eliminating the need for continuous cloud connectivity. This reduces latency, lowers power consumption, and ensures that sensitive health data remains local to the device.
 
 The combination of embedded machine learning, sensor fusion, and edge processing enables the device to operate as a compact and efficient health monitoring platform capable of detecting potential falls and anomalies in real time.
+
+
+<img width="780" height="913" alt="image" src="https://github.com/user-attachments/assets/e51a8355-5e8d-40ee-aa21-9d8032b74b6a" />
